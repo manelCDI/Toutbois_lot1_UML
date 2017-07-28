@@ -7157,13 +7157,13 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 191.9599609375,
+											"left": 189.07177734375,
 											"top": 1773,
-											"width": 123.1162109375,
+											"width": 72.53173828125,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "CombinedFragment1",
+											"text": "Contrôle OK",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -7185,11 +7185,11 @@
 											"containerExtending": false,
 											"left": 165,
 											"top": 1773,
-											"width": 21.9599609375,
+											"width": 19.07177734375,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "seq",
+											"text": "opt",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -8401,10 +8401,10 @@
 							"_parent": {
 								"$ref": "AAAAAAFddLHytUWEzMM="
 							},
-							"name": "CombinedFragment1",
+							"name": "Contrôle OK",
 							"visibility": "public",
 							"isReentrant": true,
-							"interactionOperator": "seq",
+							"interactionOperator": "opt",
 							"operands": [
 								{
 									"_type": "UMLInteractionOperand",
